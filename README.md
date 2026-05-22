@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matheusrss/matheusrss/main/assets/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/matheusrss/matheusrss/main/Assets/banner.png" width="100%" />
 </p>
 
 # Hey, I'm Matheus 🦊
