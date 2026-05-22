@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100% scr="./Assets/banner.png" />
+    <img width="100%" scr="./Assets/banner.png" />
 </div>
 
 # Hey, I'm Matheus 🦊
