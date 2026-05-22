@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" scr="./Assets/banner.png" />
+    <img width="100%" src="./assets/banner.png" />
 </div>
 
 # Hey, I'm Matheus 🦊
@@ -11,8 +11,6 @@ Passionate about software development, backend architecture and creating meaning
 Currently studying **Software Development, APIs, Cloud and System Design**
 
 Turning ideas into systems, one line of code at a time.
-
-</div>
 
 ---
 
@@ -77,4 +75,4 @@ Turning ideas into systems, one line of code at a time.
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheusrss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusrss)
